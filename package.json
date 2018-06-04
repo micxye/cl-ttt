@@ -2,9 +2,9 @@
   "name": "cl-ttt",
   "version": "1.0.0",
   "description": "command line tic tac toe",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
