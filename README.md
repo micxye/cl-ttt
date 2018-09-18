@@ -1,6 +1,8 @@
 # cl-ttt
 command line tic tac toe
 
-npm install
+### 1. npm install
 
-npm start
+### 2. npm start
+
+play with a friend!
